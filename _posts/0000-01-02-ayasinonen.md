@@ -2,5 +2,5 @@
  düzen : slayt 
 başlığı : " İkinci slaydımıza hoş geldiniz! "
 ---
-Metniniz 
+değiştirdim
 Geri gitmek için sol oku kullanın!
